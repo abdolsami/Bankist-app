@@ -36,21 +36,21 @@ const account4 = {
 
 const account5 = {
   owner: 'Ali Rajabi',
-  movements: [],
+  movements: [200, -200, 340, -300, -20, 50, 400, -460],
   interestRate: 0.7,
   pin: 6969,
 };
 
 const account6 = {
   owner: 'Sami Rajabi',
-  movements: [],
+  movements: [200, -200, 340, -300, -20, 50, 400, -460],
   interestRate: 0.7,
   pin: 314662,
 };
 
 const account7 = {
   owner: 'Phillip Phan',
-  movements: [],
+  movements: [200, -200, 340, -300, -20, 50, 400, -460],
   interestRate: 0.8,
   pin: 1212,
 };
