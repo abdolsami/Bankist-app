@@ -38,14 +38,14 @@ const account5 = {
   owner: 'Ali Rajabi',
   movements: [200, -200, 340, -300, -20, 50, 400, -460],
   interestRate: 0.7,
-  pin: 6969,
+  pin: 2009,
 };
 
 const account6 = {
   owner: 'Sami Rajabi',
-  movements: [200, -200, 340, -300, -20, 50, 400, -460],
+  movements: [2000],
   interestRate: 0.7,
-  pin: 314662,
+  pin: 1978,
 };
 
 const account7 = {
@@ -55,6 +55,20 @@ const account7 = {
   pin: 1212,
 };
 
+const account8 = {
+  owner: 'Sana Rajabi',
+  movements: [100],
+  interestRate: 0.7,
+  pin: 2013,
+}
+
+const account9 = {
+  owner: 'Safia Salehi',
+  movements: [1000],
+  interestRate: 0.7,
+  pin: 1987,
+}
+
 const accounts = [
   account1,
   account2,
@@ -63,6 +77,8 @@ const accounts = [
   account5,
   account6,
   account7,
+  account8, 
+  account9
 ];
 
 /////////////////////////////////////////////////
